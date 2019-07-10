@@ -1,4 +1,4 @@
-# Abandonned, here's a fork maintained by DocPad itself
+# Abandoned, here's a fork maintained by DocPad itself
 
 https://github.com/docpad/docpad-plugin-sitemap
 
